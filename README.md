@@ -6,10 +6,13 @@
 
 ## 🌐 Live Demo
 
-Upload to GitHub Pages and your URL will be:
-```
-https://<your-username>.github.io/<repo-name>/
-```
+**GitHub Repository:**
+👉 https://github.com/MRPROTIK/drekonomi-website
+
+**Live Site (GitHub Pages):**
+👉 https://mrprotik.github.io/drekonomi-website/
+
+> ⏳ After uploading files and enabling Pages, allow ~60 seconds for the site to go live.
 
 ---
 
@@ -32,13 +35,12 @@ drekonomi-website/
 
 ## 🚀 Deploy to GitHub Pages (Step-by-Step)
 
-### 1. Create a new GitHub repository
-- Go to [github.com](https://github.com) → **New repository**
-- Name it e.g. `drekonomi-website`
-- Set to **Public**
-- Click **Create repository**
+### 1. Go to your repository
+```
+https://github.com/MRPROTIK/drekonomi-website
+```
 
-### 2. Upload all files
+### 2. Upload all 6 files
 - Click **Add file → Upload files**
 - Drag and drop all 6 files:
   - `index.html`
@@ -47,18 +49,23 @@ drekonomi-website/
   - `portrait.jpg`
   - `contact.jpg`
   - `pricing.jpg`
+- Scroll down and click **Commit changes**
+
+### 3. Upload README.md
+- Click **Add file → Upload files** again
+- Upload `README.md`
 - Click **Commit changes**
 
-### 3. Enable GitHub Pages
-- Go to **Settings** → **Pages** (left sidebar)
+### 4. Enable GitHub Pages
+- Go to **Settings** (top menu of the repo)
+- Click **Pages** in the left sidebar
 - Under **Source**, select **Deploy from a branch**
-- Branch: `main` / Folder: `/ (root)`
+- Branch: `main` &nbsp;/&nbsp; Folder: `/ (root)`
 - Click **Save**
 
-### 4. Access your live site
-- Wait ~60 seconds, then visit:
+### 5. Your live site is at:
 ```
-https://<your-username>.github.io/drekonomi-website/
+https://mrprotik.github.io/drekonomi-website/
 ```
 
 ---
